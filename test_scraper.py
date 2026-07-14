@@ -3,19 +3,22 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlsplit, urlunsplit
 
-url = "https://www.ynet.co.il"
+
+# Ynet categories to scrape
+urls = [
+    "https://www.ynet.co.il/news/category/4502",
+    "https://www.ynet.co.il/news/category/192"
+]
+
 
 headers = {
     "User-Agent": "Mozilla/5.0"
 }
 
-response = requests.get(url, headers=headers)
-response.raise_for_status()
-
-soup = BeautifulSoup(response.text, "html.parser")
 
 articles = []
 seen_urls = set()
+
 
 bad_titles = [
     "צור קשר",
@@ -26,35 +29,63 @@ bad_titles = [
 ]
 
 
-for a in soup.find_all("a", href=True):
+for url in urls:
 
-    href = a["href"]
+    print("Checking:", url)
 
-    if "/news/article/" not in href:
-        continue
+    response = requests.get(url, headers=headers)
+    response.raise_for_status()
 
-    parts = urlsplit(href)
+    soup = BeautifulSoup(response.text, "html.parser")
 
-    if parts.scheme == "":
-        cleaned_url = "https://www.ynet.co.il" + parts.path
-    else:
-        cleaned_url = urlunsplit(
-            (parts.scheme, parts.netloc, parts.path, parts.query, "")
-        )
 
-    title = a.get_text(" ", strip=True)
+    for a in soup.find_all("a", href=True):
 
-    if (
-        title
-        and len(title) < 150
-        and not any(bad in title for bad in bad_titles)
-        and cleaned_url not in seen_urls
-    ):
+        href = a["href"]
+
+        # Only article links
+        if "/news/article/" not in href:
+            continue
+
+
+        # Clean URL
+        parts = urlsplit(href)
+
+        if parts.scheme == "":
+            cleaned_url = "https://www.ynet.co.il" + parts.path
+        else:
+            cleaned_url = urlunsplit(
+                (
+                    parts.scheme,
+                    parts.netloc,
+                    parts.path,
+                    parts.query,
+                    ""
+                )
+            )
+
+
+        title = a.get_text(" ", strip=True)
+
+
+        # Filter bad titles
+        if (
+            not title
+            or len(title) > 150
+            or any(bad in title for bad in bad_titles)
+            or cleaned_url in seen_urls
+        ):
+            continue
+
 
         seen_urls.add(cleaned_url)
 
-        # Get article page
+
+        # Get article summary
+        description = ""
+
         try:
+
             article_response = requests.get(
                 cleaned_url,
                 headers=headers,
@@ -66,30 +97,35 @@ for a in soup.find_all("a", href=True):
                 "html.parser"
             )
 
-            description = ""
 
-            # Look for meta description
             meta = article_soup.find(
                 "meta",
                 attrs={"name": "description"}
             )
 
+
             if meta:
                 description = meta.get("content", "")
 
-            articles.append({
+
+        except Exception as e:
+            print("Could not get summary:", title, e)
+
+
+        articles.append(
+            {
                 "title": title,
                 "url": cleaned_url,
                 "description": description
-            })
+            }
+        )
 
-            print("Added:", title)
-
-        except Exception as e:
-            print("Failed:", title, e)
+        print("Added:", title)
 
 
-print("\nFound", len(articles), "articles")
+
+print()
+print("Found", len(articles), "articles")
 
 
 with open(
@@ -97,11 +133,13 @@ with open(
     "w",
     encoding="utf-8"
 ) as f:
+
     json.dump(
         articles,
         f,
         ensure_ascii=False,
         indent=2
     )
+
 
 print("Saved ynet_articles.json")
