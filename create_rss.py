@@ -30,6 +30,9 @@ for article in articles:
     entry.title(article["title"])
     entry.link(href=article["url"])
 
+if article.get("description"):
+    entry.description(article["description"])
+
     # RSS requires timezone-aware datetime
     entry.pubDate(datetime.now(timezone.utc))
 

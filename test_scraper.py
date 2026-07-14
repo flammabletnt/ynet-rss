@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlsplit, urlunsplit
 
-
 url = "https://www.ynet.co.il"
 
 headers = {
@@ -13,10 +12,7 @@ headers = {
 response = requests.get(url, headers=headers)
 response.raise_for_status()
 
-html = response.text
-
-soup = BeautifulSoup(html, "html.parser")
-
+soup = BeautifulSoup(response.text, "html.parser")
 
 articles = []
 seen_urls = set()
@@ -34,56 +30,73 @@ for a in soup.find_all("a", href=True):
 
     href = a["href"]
 
-    # Only keep news article links
-    if "/news/article/" in href:
+    if "/news/article/" not in href:
+        continue
 
-        # Clean URL and remove fragments like #autoplay
-        parts = urlsplit(href)
+    parts = urlsplit(href)
 
-        if parts.scheme == "":
-            cleaned_url = "https://www.ynet.co.il" + parts.path
-        else:
-            cleaned_url = urlunsplit(
-                (
-                    parts.scheme,
-                    parts.netloc,
-                    parts.path,
-                    parts.query,
-                    ""
-                )
+    if parts.scheme == "":
+        cleaned_url = "https://www.ynet.co.il" + parts.path
+    else:
+        cleaned_url = urlunsplit(
+            (parts.scheme, parts.netloc, parts.path, parts.query, "")
+        )
+
+    title = a.get_text(" ", strip=True)
+
+    if (
+        title
+        and len(title) < 150
+        and not any(bad in title for bad in bad_titles)
+        and cleaned_url not in seen_urls
+    ):
+
+        seen_urls.add(cleaned_url)
+
+        # Get article page
+        try:
+            article_response = requests.get(
+                cleaned_url,
+                headers=headers,
+                timeout=10
             )
 
-        title = a.get_text(" ", strip=True)
-
-        # Keep only real-looking headlines
-        if (
-            title
-            and len(title) < 150
-            and not any(bad in title for bad in bad_titles)
-            and cleaned_url not in seen_urls
-        ):
-
-            seen_urls.add(cleaned_url)
-
-            articles.append(
-                {
-                    "title": title,
-                    "url": cleaned_url
-                }
+            article_soup = BeautifulSoup(
+                article_response.text,
+                "html.parser"
             )
 
+            description = ""
 
-print("Found", len(articles), "headlines\n")
+            # Look for meta description
+            meta = article_soup.find(
+                "meta",
+                attrs={"name": "description"}
+            )
+
+            if meta:
+                description = meta.get("content", "")
+
+            articles.append({
+                "title": title,
+                "url": cleaned_url,
+                "description": description
+            })
+
+            print("Added:", title)
+
+        except Exception as e:
+            print("Failed:", title, e)
 
 
-for article in articles[:30]:
-    print(article["title"])
-    print(article["url"])
-    print("---")
+print("\nFound", len(articles), "articles")
 
 
-# Save articles as JSON
-with open("ynet_articles.json", "w", encoding="utf-8") as f:
+with open(
+    "ynet_articles.json",
+    "w",
+    encoding="utf-8"
+) as f:
     json.dump(
         articles,
         f,
@@ -91,5 +104,4 @@ with open("ynet_articles.json", "w", encoding="utf-8") as f:
         indent=2
     )
 
-
-print("\nSaved to ynet_articles.json")
+print("Saved ynet_articles.json")
