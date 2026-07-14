@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Ynet News - Custom RSS</title>
+    <link>https://www.ynet.co.il</link>
+    <description>Custom RSS feed created from Ynet headlines</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>he</language>
+    <lastBuildDate>Tue, 14 Jul 2026 17:18:29 +0000</lastBuildDate>
+    <item>
+      <title>באירוע הפתיחה של המכביה: "שרה נתניהו צעקה על רה"מ ואנשיו" | תיעוד</title>
+      <link>https://www.ynet.co.il/news/article/byfrsgq7zl</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/byfrsgq7zl</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>זיני באופסייד</title>
+      <link>https://www.ynet.co.il/news/article/yokra14832083</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/yokra14832083</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>לא משאירים אלטרנטיבה</title>
+      <link>https://www.ynet.co.il/news/article/yokra14831785</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/yokra14831785</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>הטבח ששינה את גורלנו</title>
+      <link>https://www.ynet.co.il/news/article/yokra14831758</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/yokra14831758</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>מה כאן ימין?</title>
+      <link>https://www.ynet.co.il/news/article/yokra14832148</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/yokra14832148</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>זה לא יישכח</title>
+      <link>https://www.ynet.co.il/news/article/yokra14832424</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/yokra14832424</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>הציונות של הנדל וטרופר היא עיוורת. מדירה וגזענית</title>
+      <link>https://www.ynet.co.il/news/article/skshw8nmvzx</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/skshw8nmvzx</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>"הרימונים נזרקים כשהמקום סגור": על אף התקיפות, הסועדים הגיעו לסניפי ג'פניקה</title>
+      <link>https://www.ynet.co.il/news/article/sye25sqvmx</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/sye25sqvmx</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>ארה"ב: סוכני ICE ירו למוות במהגר לעיני אשתו ובתו בת ה-3</title>
+      <link>https://www.ynet.co.il/news/article/rk9gcn7nfg</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/rk9gcn7nfg</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>נשיא הונגריה "הבובה" יודח, אורבן זועם: "הדמוקרטיה מתה"</title>
+      <link>https://www.ynet.co.il/news/article/sjaaftxnfl</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/sjaaftxnfl</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>זה העונש לחיילת מדו"צ שהצטלמה עם המשפיען שרקד לצלילי "הייל היטלר"</title>
+      <link>https://www.ynet.co.il/news/article/ry1rmh7emg</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/ry1rmh7emg</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>הטייסת הראשונה בצה"ל בדרגת תת-אלוף</title>
+      <link>https://www.ynet.co.il/news/article/rkpo6pxvmg</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/rkpo6pxvmg</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>סיסמולוג אמריקני עצור בסתר שנתיים בסין על ריגול: "חקר ניסויי גרעין תת-קרקעיים"</title>
+      <link>https://www.ynet.co.il/news/article/r1bintmeml</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/r1bintmeml</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>חשד לחטיפה ביבנה: 5 נעצרו, החטוף אותר</title>
+      <link>https://www.ynet.co.il/news/article/rkfby0x4gg</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/rkfby0x4gg</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>אזהרת האוצר אחרי הכניעה לחרדים: גניזת הרפורמה בתחבורה, נזק של 40 מיליארד</title>
+      <link>https://www.ynet.co.il/news/article/bkurmtm4fx</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/bkurmtm4fx</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>האמריקנים התרעמו אחרי איסור נחיתת המתדלקים, פנו לצה"ל וקיבלו גיבוי: "צודקים"</title>
+      <link>https://www.ynet.co.il/news/article/byvzjcqezx</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/byvzjcqezx</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>שרן השכל התפטרה לאחר אישור הפטור ממעצרים לעריקים</title>
+      <link>https://www.ynet.co.il/news/article/bys1dcmvfg</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/bys1dcmvfg</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>סערה אחרי אישור חוק הפטור ממעצרים - והעתירות לבג"ץ</title>
+      <link>https://www.ynet.co.il/news/article/h1okpaqefe</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/h1okpaqefe</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>נתניהו יצא, חוק הפטור ממעצרים למשתמטים אושר סופית</title>
+      <link>https://www.ynet.co.il/news/article/rjb5nvqngx</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/rjb5nvqngx</guid>
+      <pubDate>Tue, 14 Jul 2026 17:18:29 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
