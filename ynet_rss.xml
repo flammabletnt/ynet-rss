@@ -7,23 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>he</language>
-    <lastBuildDate>Sat, 18 Jul 2026 21:38:11 +0000</lastBuildDate>
-    <item>
-      <title>נשיא הונגריה "הבובה" יודח, אורבן זועם: "הדמוקרטיה מתה"</title>
-      <link>https://www.ynet.co.il/news/article/sjaaftxnfl</link>
-      <description>&lt;a href="https://www.ynet.co.il/news/article/sjaaftxnfl"&gt;Read article on Ynet&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/sjaaftxnfl</guid>
-      <pubDate>Sat, 18 Jul 2026 21:38:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>"עמוק יותר, גדול יותר, מבוצר יותר". המתקן בהר שנותר חסין בשתי מלחמות - והאיום האיראני</title>
-      <link>https://www.ynet.co.il/news/article/skvfa5qnfe</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/skvfa5qnfe</guid>
-    </item>
+    <lastBuildDate>Sun, 19 Jul 2026 07:19:20 +0000</lastBuildDate>
     <item>
       <title>ארה"ב: סוכני ICE ירו למוות במהגר לעיני אשתו ובתו בת ה-3</title>
       <link>https://www.ynet.co.il/news/article/rk9gcn7nfg</link>
+      <description>&lt;a href="https://www.ynet.co.il/news/article/rk9gcn7nfg"&gt;Read article on Ynet&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/rk9gcn7nfg</guid>
+      <pubDate>Sun, 19 Jul 2026 07:19:20 +0000</pubDate>
     </item>
     <item>
       <title>מנהל הקמפיין של טראמפ – שישראל שכרה לשנות את דעת הקהל על ההסכם עם איראן</title>
@@ -211,9 +201,14 @@
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/bjcj4xkvme</guid>
     </item>
     <item>
-      <title>שינוי המשטר באיראן כנראה לא יהיה מיידי. אלה היעדים העיקריים של ישראל וארה"ב כרגע</title>
-      <link>https://www.ynet.co.il/news/article/rkcox6afzx</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/rkcox6afzx</guid>
+      <title>האחים שהפכו "גבריות רעילה" למותג נעצרו במיאמי, בריטניה מבקשת להסגירם</title>
+      <link>https://www.ynet.co.il/news/article/hki8w9ynzl</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/hki8w9ynzl</guid>
+    </item>
+    <item>
+      <title>נמשך המהפך בהונגריה אחרי אורבן: מדיאר צייץ במשקפי שמש, וה"נשיא-בובה" הודח</title>
+      <link>https://www.ynet.co.il/news/article/hyqgw19ezx</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/hyqgw19ezx</guid>
     </item>
     <item>
       <title>כ"ץ בקריאה ראשונה לעם האיראני: צאו לרחובות וקצרו את המלחמה | פרשנות</title>
@@ -409,6 +404,11 @@
       <title>המס של טראמפ על הורמוז: להעניש את איראן ומי שלא התגייסו לעזרה - ולממן את המלחמה</title>
       <link>https://www.ynet.co.il/news/article/byg11okgnze</link>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/byg11okgnze</guid>
+    </item>
+    <item>
+      <title>עסקן פוליטי, עבריין מורשע, פוגע בסמכות הרמטכ"ל</title>
+      <link>https://www.ynet.co.il/news/article/yokra14835915</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/yokra14835915</guid>
     </item>
   </channel>
 </rss>
