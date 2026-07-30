@@ -7,23 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>he</language>
-    <lastBuildDate>Thu, 30 Jul 2026 00:15:32 +0000</lastBuildDate>
-    <item>
-      <title>משבר המיירטים האמריקני והיוזמה החדשה בהורמוז: "המצב חמור - ועומד להתלקח"</title>
-      <link>https://www.ynet.co.il/news/article/synaorzszx</link>
-      <description>&lt;a href="https://www.ynet.co.il/news/article/synaorzszx"&gt;Read article on Ynet&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/synaorzszx</guid>
-      <pubDate>Thu, 30 Jul 2026 00:15:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>אוקראינה תקפה ספינה איראנית בים הכספי: "מלבה את האש"</title>
-      <link>https://www.ynet.co.il/news/article/syg8ptgsfx</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/syg8ptgsfx</guid>
-    </item>
+    <lastBuildDate>Thu, 30 Jul 2026 10:03:46 +0000</lastBuildDate>
     <item>
       <title>הרוגה ו-17 פצועים בפיגוע דריסה במצעד הגאווה בברלין, מצוד אחר חשוד מוסלמי</title>
       <link>https://www.ynet.co.il/news/article/sj111tofhzg</link>
+      <description>&lt;a href="https://www.ynet.co.il/news/article/sj111tofhzg"&gt;Read article on Ynet&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/sj111tofhzg</guid>
+      <pubDate>Thu, 30 Jul 2026 10:03:46 +0000</pubDate>
     </item>
     <item>
       <title>דיווח: טראמפ שקל "מתקפה מסיבית" - ואז הגיעה אזהרת הפנטגון על מחסור במיירטים</title>
@@ -211,9 +201,14 @@
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/byunp3vbzx</guid>
     </item>
     <item>
-      <title>דרוש עוד זמן להכרעת איראן</title>
-      <link>https://www.ynet.co.il/news/article/sjlln0kc11g</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/sjlln0kc11g</guid>
+      <title>"טראמפ המתוסכל התפרץ על אנשיו", כוויית: הרוג בתקיפה איראנית נגד חברה סינית</title>
+      <link>https://www.ynet.co.il/news/article/sjtpkwdbfg</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/sjtpkwdbfg</guid>
+    </item>
+    <item>
+      <title>מתקפה רוסית כבדה: טיל נפל בפולין שהזניקה מטוסי קרב, 8 הרוגים באוקראינה</title>
+      <link>https://www.ynet.co.il/news/article/skiuiddhgx</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/skiuiddhgx</guid>
     </item>
     <item>
       <title>תוכנית היציאה של טראמפ, הפגיעה בנתנז וההערכה בישראל: הירי יתגבר בשבוע הבא</title>
@@ -409,6 +404,11 @@
       <title>הנתק הממושך בין נתניהו לטראמפ גורם לאי-ודאות מדאיג</title>
       <link>https://www.ynet.co.il/news/article/r1ebuva4gx</link>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/r1ebuva4gx</guid>
+    </item>
+    <item>
+      <title>איראן חותרת לעימות, אבל לטראמפ יש אסטרטגיה אחרת</title>
+      <link>https://www.ynet.co.il/news/article/hkyjv00dbme</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/hkyjv00dbme</guid>
     </item>
   </channel>
 </rss>
