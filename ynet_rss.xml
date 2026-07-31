@@ -7,23 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>he</language>
-    <lastBuildDate>Fri, 31 Jul 2026 16:15:24 +0000</lastBuildDate>
-    <item>
-      <title>ארה"ב: שלושה נהרגו מירי במרכז סיאטל, בן שנתיים נפצע</title>
-      <link>https://www.ynet.co.il/news/article/rk78nvvszl</link>
-      <description>&lt;a href="https://www.ynet.co.il/news/article/rk78nvvszl"&gt;Read article on Ynet&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/rk78nvvszl</guid>
-      <pubDate>Fri, 31 Jul 2026 16:15:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>נתניהו ימריא עם מסר, ארה"ב ואיראן מחפשות פשרה: "המצב נזיל"</title>
-      <link>https://www.ynet.co.il/news/article/sj116xv4sme</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/sj116xv4sme</guid>
-    </item>
+    <lastBuildDate>Fri, 31 Jul 2026 20:51:55 +0000</lastBuildDate>
     <item>
       <title>החליף מזומן בצ'יפים: כוכב פוקר ישראלי נאשם בהלבנת הון בלוס אנג'לס</title>
       <link>https://www.ynet.co.il/news/article/rydujdvbmx</link>
+      <description>&lt;a href="https://www.ynet.co.il/news/article/rydujdvbmx"&gt;Read article on Ynet&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/rydujdvbmx</guid>
+      <pubDate>Fri, 31 Jul 2026 20:51:55 +0000</pubDate>
     </item>
     <item>
       <title>כבר 326,000 פונו בשריפות הענק באירופה, "סופת אש" מאיימת על בירת היין בורדו: "כמו האפוקליפסה"</title>
@@ -201,7 +191,7 @@
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/rkia7xfszg</guid>
     </item>
     <item>
-      <title>טראמפ: "העימות עם איראן מתנהל היטב, מכים בהם" | ישיר מישיבת הקבינט בקמפ דיוויד</title>
+      <title>קודם נסיגה או פירוז? טראמפ התחמק: "יש הבנות עם ישראל, הם שמחים"</title>
       <link>https://www.ynet.co.il/news/article/bky3re9rfx</link>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/bky3re9rfx</guid>
     </item>
@@ -211,9 +201,14 @@
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/hjubcqqrzx</guid>
     </item>
     <item>
-      <title>תוכנית היציאה של טראמפ, הפגיעה בנתנז וההערכה בישראל: הירי יתגבר בשבוע הבא</title>
-      <link>https://www.ynet.co.il/news/article/sj511c4h5ze</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/sj511c4h5ze</guid>
+      <title>בשווי 109 מיליון דולר: מטוס קרב מדגם F-35B התרסק בדרום קליפורניה</title>
+      <link>https://www.ynet.co.il/news/article/r1vumu9rme</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/r1vumu9rme</guid>
+    </item>
+    <item>
+      <title>המסר של נתניהו - והיפוכו: הפגישה הלא מתוכננת בבית הלבן, יום אחרי רה"מ</title>
+      <link>https://www.ynet.co.il/news/article/ry5tep9bml</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/ry5tep9bml</guid>
     </item>
     <item>
       <title>האם אנחנו באמת בתחילת הסוף של המלחמה?</title>
@@ -409,6 +404,11 @@
       <title>איראן חותרת לעימות, אבל לטראמפ יש אסטרטגיה אחרת</title>
       <link>https://www.ynet.co.il/news/article/hkyjv00dbme</link>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/hkyjv00dbme</guid>
+    </item>
+    <item>
+      <title>מפת הדרכים: חמאס יישאר הכוח מאחורי הקלעים ברצועה, וידי צה"ל יהיו כבולות</title>
+      <link>https://www.ynet.co.il/news/article/h1rh0h9rml</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/h1rh0h9rml</guid>
     </item>
   </channel>
 </rss>
