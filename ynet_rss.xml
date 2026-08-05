@@ -7,28 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>he</language>
-    <lastBuildDate>Wed, 05 Aug 2026 06:15:35 +0000</lastBuildDate>
-    <item>
-      <title>מטפס ההרים הנערץ שכיכב בנטפליקס נהרג במפולת שלגים</title>
-      <link>https://www.ynet.co.il/news/article/s1puqyisfg</link>
-      <description>&lt;a href="https://www.ynet.co.il/news/article/s1puqyisfg"&gt;Read article on Ynet&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/s1puqyisfg</guid>
-      <pubDate>Wed, 05 Aug 2026 06:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>מתקפת סייבר על המים בארה"ב: 7 מדינות דיווחו על נזקים; החשודה: איראן</title>
-      <link>https://www.ynet.co.il/news/article/r1xcdcirfx</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/r1xcdcirfx</guid>
-    </item>
-    <item>
-      <title>להפוך את המלחמה ליקרה לטראמפ, בלי לגרור הסלמה: תוכנית השלוחים של איראן</title>
-      <link>https://www.ynet.co.il/news/article/rjah12jrme</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/rjah12jrme</guid>
-    </item>
+    <lastBuildDate>Wed, 05 Aug 2026 13:18:34 +0000</lastBuildDate>
     <item>
       <title>אסון בפרו: 13 הרוגים בהתרסקות מטוס קל ליד אתר התיירות הפופולרי</title>
       <link>https://www.ynet.co.il/news/article/s1bbh0ssgg</link>
+      <description>&lt;a href="https://www.ynet.co.il/news/article/s1bbh0ssgg"&gt;Read article on Ynet&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/s1bbh0ssgg</guid>
+      <pubDate>Wed, 05 Aug 2026 13:18:34 +0000</pubDate>
     </item>
     <item>
       <title>טראמפ: ביטלתי את התקיפה באיראן, הושגו קווים כלליים לעסקה</title>
@@ -211,9 +196,19 @@
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/sjzecxglgx</guid>
     </item>
     <item>
-      <title>מסר לארה"ב: למה החות'ים הצטרפו דווקא עכשיו</title>
-      <link>https://www.ynet.co.il/news/article/hyvypehiwg</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/hyvypehiwg</guid>
+      <title>עוד מכה לישראל במפלגה הדמוקרטית: עבדול א-סייד בדרך לניצחון במישיגן</title>
+      <link>https://www.ynet.co.il/news/article/ryibxvluzl</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/ryibxvluzl</guid>
+    </item>
+    <item>
+      <title>מבצע של הרגע האחרון: טופס הלוטו האבוד, שזכה במיליון אירו, נמצא במשאית הזבל</title>
+      <link>https://www.ynet.co.il/news/article/h11b11yelmx</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/h11b11yelmx</guid>
+    </item>
+    <item>
+      <title>נקמת רוסיה: 17 נהרגו בקייב, מחסני סחורות הושמדו, רחפן נפץ בנמל התעופה בלייפציג</title>
+      <link>https://www.ynet.co.il/news/article/s1run9xife</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/s1run9xife</guid>
     </item>
     <item>
       <title>המטרה: לקבור את האורניום - במקום לחלץ אותו | מאחורי התקיפה החריגה באיספהאן</title>
@@ -409,6 +404,11 @@
       <title>חוסר האחריות של כ"ץ מעמיד בספק את יכולתו לשמש שר ביטחון</title>
       <link>https://www.ynet.co.il/news/article/bk4tcn6bgl</link>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/bk4tcn6bgl</guid>
+    </item>
+    <item>
+      <title>צה״ל איבד שליטה, הקיצונים הם כעת הריבון ביהודה ושומרון</title>
+      <link>https://www.ynet.co.il/news/article/rkhqddelzg</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/rkhqddelzg</guid>
     </item>
   </channel>
 </rss>
