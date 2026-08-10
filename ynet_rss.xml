@@ -7,28 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>he</language>
-    <lastBuildDate>Mon, 10 Aug 2026 10:41:44 +0000</lastBuildDate>
-    <item>
-      <title>פרופ' שחור שהפך לנער הפוסטר של ה-DEI מתפטר מקיימברידג': "העתיק בדוקטורט וזייף מחקרים"</title>
-      <link>https://www.ynet.co.il/news/article/bjt89yg8ge</link>
-      <description>&lt;a href="https://www.ynet.co.il/news/article/bjt89yg8ge"&gt;Read article on Ynet&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/bjt89yg8ge</guid>
-      <pubDate>Mon, 10 Aug 2026 10:41:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>אסון נמנע בגרמניה: רחפן הנפץ ה"רוסי" נחת ליד מטוס אוקראיני עמוס תחמושת</title>
-      <link>https://www.ynet.co.il/news/article/sky7lbf8zl</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/sky7lbf8zl</guid>
-    </item>
-    <item>
-      <title>מהמלחמה באוקראינה לג'ונגל בקולומביה: הרחפנים של קייב מגיעים לקרטלים</title>
-      <link>https://www.ynet.co.il/news/article/skdph11migx</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/skdph11migx</guid>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 14:41:57 +0000</lastBuildDate>
     <item>
       <title>המתקפה הקטלנית ביותר של החות'ים זה שנים: עשרות חיילים נהרגו בתימן</title>
       <link>https://www.ynet.co.il/news/article/sjcydqflmg</link>
+      <description>&lt;a href="https://www.ynet.co.il/news/article/sjcydqflmg"&gt;Read article on Ynet&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/sjcydqflmg</guid>
+      <pubDate>Mon, 10 Aug 2026 14:41:57 +0000</pubDate>
     </item>
     <item>
       <title>"איסור מעבר לכלי שיט מישראל וארה"ב": באיראן  טוענים - זה ההסכם לניהול הורמוז</title>
@@ -211,9 +196,19 @@
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/r100gwzwifx</guid>
     </item>
     <item>
-      <title>המטרה: לקבור את האורניום - במקום לחלץ אותו | מאחורי התקיפה החריגה באיספהאן</title>
-      <link>https://www.ynet.co.il/news/article/skqv30ujbe</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/skqv30ujbe</guid>
+      <title>דרמה בתאילנד: "המחוקק המורד" תועד רוצח פוליטיקאי בכיר - ימים אחרי מסע הירי</title>
+      <link>https://www.ynet.co.il/news/article/bkjnu7p8gg</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/bkjnu7p8gg</guid>
+    </item>
+    <item>
+      <title>"עוד הוכחה לפלישה": סירת המסתננים לאנגליה שברה שיא</title>
+      <link>https://www.ynet.co.il/news/article/sytcj4wlme</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/sytcj4wlme</guid>
+    </item>
+    <item>
+      <title>רעידת אדמה חזקה בקולומביה, דיווחים על פצועים ולכודים בבניינים שקרסו | צפו בתיעוד מההרס</title>
+      <link>https://www.ynet.co.il/news/article/bkdvcswlzx</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/bkdvcswlzx</guid>
     </item>
     <item>
       <title>הושלמה תקיפת המטרות החיוניות באיראן. בלבנון: צה"ל מתקדם - ומתייצב על הקו הצהוב</title>
@@ -409,6 +404,11 @@
       <title>צה״ל איבד שליטה, הקיצונים הם כעת הריבון ביהודה ושומרון</title>
       <link>https://www.ynet.co.il/news/article/rkhqddelzg</link>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/rkhqddelzg</guid>
+    </item>
+    <item>
+      <title>הקפאת מצב בכל החזיתות - עד אחרי הבחירות בישראל ובארה"ב</title>
+      <link>https://www.ynet.co.il/news/article/r1im0fpufg</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/r1im0fpufg</guid>
     </item>
   </channel>
 </rss>
