@@ -7,23 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>he</language>
-    <lastBuildDate>Sat, 17 Oct 2026 05:09:07 +0000</lastBuildDate>
-    <item>
-      <title>אסון מחריד ברכבת ההרים "גוליית": אבא התנתק מהקרון, פגע בנוסעים - ונפל אל מותו</title>
-      <link>https://www.ynet.co.il/news/article/hyaswvoimg</link>
-      <description>&lt;a href="https://www.ynet.co.il/news/article/hyaswvoimg"&gt;Read article on Ynet&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/hyaswvoimg</guid>
-      <pubDate>Sat, 17 Oct 2026 05:09:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>"עבדול? בשבילי הוא מוחמד!": המרוץ הסוער לסנאט, והקשר לאחים המוסלמים</title>
-      <link>https://www.ynet.co.il/news/article/rydhfroozl</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/rydhfroozl</guid>
-    </item>
+    <lastBuildDate>Sat, 17 Oct 2026 09:48:40 +0000</lastBuildDate>
     <item>
       <title>בכיר טורקי ייבחר למזכ"ל האו"ם? "טראמפ מחפש מועמד מטלטל"</title>
       <link>https://www.ynet.co.il/news/article/hjv37dsjzl</link>
+      <description>&lt;a href="https://www.ynet.co.il/news/article/hjv37dsjzl"&gt;Read article on Ynet&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/hjv37dsjzl</guid>
+      <pubDate>Sat, 17 Oct 2026 09:48:40 +0000</pubDate>
     </item>
     <item>
       <title>תקרית אווירית בגרמניה: "מטוסי קרב הוזנקו למטוס מיוון"</title>
@@ -209,6 +199,16 @@
       <title>טראמפ פיטר את דוברת הבית הלבן החדשה אחרי 5 ימים | זו גרסתה למבוכה</title>
       <link>https://www.ynet.co.il/news/article/rkwehkx2fe</link>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/rkwehkx2fe</guid>
+    </item>
+    <item>
+      <title>נתלו, חושמלו, הורעלו - ונשארו בחיים: הרוצחים ששרדו הוצאה להורג</title>
+      <link>https://www.ynet.co.il/news/article/rj48mmhjme</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/rj48mmhjme</guid>
+    </item>
+    <item>
+      <title>"למדינות אין זכות קיום": הפרו-פלסטינית שמסכנת את ניצחון השמאל הרדיקלי</title>
+      <link>https://www.ynet.co.il/news/article/sjvivil2ze</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/sjvivil2ze</guid>
     </item>
     <item>
       <title>טראמפ על השאלטר: הקיפאון המדמם בלבנון ייגמר כשיהיו הכרעות באיראן</title>
@@ -401,14 +401,14 @@
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/s1hhspdfmx</guid>
     </item>
     <item>
-      <title>ישראל וארה"ב מבינות שמכה מהאוויר לא תפיל את המשטר. אז הן מחכות | פרשנות</title>
-      <link>https://www.ynet.co.il/news/article/yokra14927532</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/yokra14927532</guid>
-    </item>
-    <item>
       <title>הסעודים צריכים כיפת ברזל וקלע דוד, אבל ישראל לא ממהרת</title>
       <link>https://www.ynet.co.il/news/article/bjghzglhfl</link>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/bjghzglhfl</guid>
+    </item>
+    <item>
+      <title>ישראל וארה"ב מבינות שמכה מהאוויר לא תפיל את המשטר. אז הן מחכות | פרשנות</title>
+      <link>https://www.ynet.co.il/news/article/yokra14927532</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/yokra14927532</guid>
     </item>
   </channel>
 </rss>
