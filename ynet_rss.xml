@@ -7,28 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>he</language>
-    <lastBuildDate>Wed, 21 Oct 2026 10:43:38 +0000</lastBuildDate>
-    <item>
-      <title>מאסק חשף את "הטסלה המעופפת": צפו בתיעוד המדהים</title>
-      <link>https://www.ynet.co.il/news/article/rjbfzmk3zx</link>
-      <description>&lt;a href="https://www.ynet.co.il/news/article/rjbfzmk3zx"&gt;Read article on Ynet&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/rjbfzmk3zx</guid>
-      <pubDate>Wed, 21 Oct 2026 10:43:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>התעלומה - והקשר למאפיה: הנרצח בחבית זוהה</title>
-      <link>https://www.ynet.co.il/news/article/rkmursj2me</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/rkmursj2me</guid>
-    </item>
-    <item>
-      <title>תלמיד לשעבר פתח במסע הרצח בכיתת חינוך מיוחד בארה"ב, אב גיבור נטרל אותו</title>
-      <link>https://www.ynet.co.il/news/article/rke00sgg3ge</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/rke00sgg3ge</guid>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 15:43:04 +0000</lastBuildDate>
     <item>
       <title>אחרי 5 ימים, וסערת "שקר תואר עורכת הדין": טראמפ פיטר את דוברת הבית הלבן החדשה</title>
       <link>https://www.ynet.co.il/news/article/rkwehkx2fe</link>
+      <description>&lt;a href="https://www.ynet.co.il/news/article/rkwehkx2fe"&gt;Read article on Ynet&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/rkwehkx2fe</guid>
+      <pubDate>Wed, 21 Oct 2026 15:43:04 +0000</pubDate>
     </item>
     <item>
       <title>נתלו, חושמלו, הורעלו - ונשארו בחיים: הרוצחים ששרדו הוצאה להורג</title>
@@ -211,9 +196,19 @@
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/b1u5xxlhze</guid>
     </item>
     <item>
-      <title>טראמפ על השאלטר: הקיפאון המדמם בלבנון ייגמר כשיהיו הכרעות באיראן</title>
-      <link>https://www.ynet.co.il/news/article/hkeexg0a11x</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/hkeexg0a11x</guid>
+      <title>פוטין שחרר אמריקני מהכלא כמחווה לטראמפ - ומאיים על זלנסקי: "מצבכם רק יחמיר"</title>
+      <link>https://www.ynet.co.il/news/article/rjjkyzunfx</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/rjjkyzunfx</guid>
+    </item>
+    <item>
+      <title>בגיל 77, אחרי 40 שנה בכלא: ותיק מלחמת וייטנאם שרצח שוטר הוצא להורג בארה"ב</title>
+      <link>https://www.ynet.co.il/news/article/byfatq83fl</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/byfatq83fl</guid>
+    </item>
+    <item>
+      <title>סערה בבחירות בארה"ב: המועמד גייס את האם המתעללת של יריבתו, שקראה "אל תצביעו לה"</title>
+      <link>https://www.ynet.co.il/news/article/bkksmrlnzg</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/bkksmrlnzg</guid>
     </item>
     <item>
       <title>המאמצים לפרק מנשק את חמאס, שרוצה להיות "חיזבאללה של עזה"</title>
@@ -409,6 +404,11 @@
       <title>ישראל וארה"ב מבינות שמכה מהאוויר לא תפיל את המשטר. אז הן מחכות | פרשנות</title>
       <link>https://www.ynet.co.il/news/article/yokra14927532</link>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/yokra14927532</guid>
+    </item>
+    <item>
+      <title>"געוואלד ביטחוני" - והמסר של צה"ל</title>
+      <link>https://www.ynet.co.il/news/article/hjmhxzi3fl</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/hjmhxzi3fl</guid>
     </item>
   </channel>
 </rss>
