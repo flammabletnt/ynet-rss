@@ -7,23 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>he</language>
-    <lastBuildDate>Mon, 26 Oct 2026 05:31:29 +0000</lastBuildDate>
-    <item>
-      <title>"פייק ניוז החוצה, בריכה פנימה": התוכנית של טראמפ לסילוק העיתונאים מהבית הלבן</title>
-      <link>https://www.ynet.co.il/news/article/b1u5xxlhze</link>
-      <description>&lt;a href="https://www.ynet.co.il/news/article/b1u5xxlhze"&gt;Read article on Ynet&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/b1u5xxlhze</guid>
-      <pubDate>Mon, 26 Oct 2026 05:31:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>פוטין שחרר אמריקני מהכלא כמחווה לטראמפ - ומאיים על זלנסקי: "מצבכם רק יחמיר"</title>
-      <link>https://www.ynet.co.il/news/article/rjjkyzunfx</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/rjjkyzunfx</guid>
-    </item>
+    <lastBuildDate>Mon, 26 Oct 2026 11:40:46 +0000</lastBuildDate>
     <item>
       <title>בגיל 77, אחרי 40 שנה בכלא: ותיק מלחמת וייטנאם שרצח שוטר הוצא להורג בארה"ב</title>
       <link>https://www.ynet.co.il/news/article/byfatq83fl</link>
+      <description>&lt;a href="https://www.ynet.co.il/news/article/byfatq83fl"&gt;Read article on Ynet&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/byfatq83fl</guid>
+      <pubDate>Mon, 26 Oct 2026 11:40:46 +0000</pubDate>
     </item>
     <item>
       <title>סערה בבחירות בארה"ב: המועמד גייס את האם המתעללת של יריבתו, שקראה "אל תצביעו לה"</title>
@@ -201,7 +191,7 @@
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/hjv004nshme</guid>
     </item>
     <item>
-      <title>דרמה בברזיל: ניצחון מפתיע לנשיא האנטי-ישראלי לולה - שהביס את מנהיג הימין</title>
+      <title>דרמה בברזיל: ניצחון מפתיע לנשיא האנטי-ישראלי לולה, מנהיג הימין בולסונרו מסרב להכיר בהפסד</title>
       <link>https://www.ynet.co.il/news/article/h1ubdqshfg</link>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/h1ubdqshfg</guid>
     </item>
@@ -211,9 +201,14 @@
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/bjbldhn3gx</guid>
     </item>
     <item>
-      <title>המאמצים לפרק מנשק את חמאס, שרוצה להיות "חיזבאללה של עזה"</title>
-      <link>https://www.ynet.co.il/news/article/rkv9tkbr11l</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/rkv9tkbr11l</guid>
+      <title>ארה"ב: השוטר מצא גופה בבית - ואז השתלט על הנכס וגנב את זהותו של המנוח</title>
+      <link>https://www.ynet.co.il/news/article/bykupo2hgl</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/bykupo2hgl</guid>
+    </item>
+    <item>
+      <title>ניצחון לולה מטלטל את ברזיל: השווקים צונחים, "צבא וואטסאפ" - וההשוואה למסי</title>
+      <link>https://www.ynet.co.il/news/article/h1jeatnhme</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/h1jeatnhme</guid>
     </item>
     <item>
       <title>נראה שזו רק ההתחלה</title>
@@ -409,6 +404,11 @@
       <title>"געוואלד ביטחוני" - והמסר של צה"ל</title>
       <link>https://www.ynet.co.il/news/article/hjmhxzi3fl</link>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/hjmhxzi3fl</guid>
+    </item>
+    <item>
+      <title>התקיפה המסתורית בעיראק, לחץ נתניהו לפעולה לפני בחירות והמתח עם הרמטכ"ל</title>
+      <link>https://www.ynet.co.il/news/article/b1nawp32gg</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/b1nawp32gg</guid>
     </item>
   </channel>
 </rss>
