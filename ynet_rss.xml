@@ -7,23 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>he</language>
-    <lastBuildDate>Fri, 13 Nov 2026 02:13:10 +0000</lastBuildDate>
-    <item>
-      <title>טראמפ מפקפק בתוצאות הבחירות: "מישהו מאמין לזה?". הוגשה ההצעה להדחת הגסת'</title>
-      <link>https://www.ynet.co.il/news/article/sypeqt1rfx</link>
-      <description>&lt;a href="https://www.ynet.co.il/news/article/sypeqt1rfx"&gt;Read article on Ynet&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/sypeqt1rfx</guid>
-      <pubDate>Fri, 13 Nov 2026 02:13:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>"קושר הכתרים" מניו יורק: זוהראן ממדאני בוחש במרוץ לנשיאות</title>
-      <link>https://www.ynet.co.il/news/article/bk00xpok0zg</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/bk00xpok0zg</guid>
-    </item>
+    <lastBuildDate>Fri, 13 Nov 2026 10:11:20 +0000</lastBuildDate>
     <item>
       <title>"השיחות התכופות" בין נתניהו לטראמפ - והצהרת הנשיא: "פעולה באיראן? זה לא הכרחי"</title>
       <link>https://www.ynet.co.il/news/article/hktq3310mx</link>
+      <description>&lt;a href="https://www.ynet.co.il/news/article/hktq3310mx"&gt;Read article on Ynet&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/hktq3310mx</guid>
+      <pubDate>Fri, 13 Nov 2026 10:11:20 +0000</pubDate>
     </item>
     <item>
       <title>מטוסי תדלוק אמריקניים פונו מבסיס בריטי: "עקב איום מאיראן"</title>
@@ -196,11 +186,6 @@
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/sjr8tdmcfx</guid>
     </item>
     <item>
-      <title>למשך כשעה: תקלה עולמית השביתה את אאוטלוק של מיקרוסופט</title>
-      <link>https://www.ynet.co.il/news/article/bkmkifxagg</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/bkmkifxagg</guid>
-    </item>
-    <item>
       <title>"המלחמה תחודש מיד": איום פוטין מול שליחי טראמפ - שהבטיחו "שינוי אירופי גדול"</title>
       <link>https://www.ynet.co.il/news/article/r13kay7cgg</link>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/r13kay7cgg</guid>
@@ -211,9 +196,19 @@
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/rjzv7qqcml</guid>
     </item>
     <item>
-      <title>"הפסקת אש תחת אש": רון בן ישי עם לוחמי צה"ל ב"הפוגה" בדרום לבנון</title>
-      <link>https://www.ynet.co.il/news/article/byim5udrbx</link>
-      <guid isPermaLink="false">https://www.ynet.co.il/news/article/byim5udrbx</guid>
+      <title>כבר שעות ארוכות: תקלה עולמית משביתה את Outlook של מיקרוסופט</title>
+      <link>https://www.ynet.co.il/news/article/bkmkifxagg</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/bkmkifxagg</guid>
+    </item>
+    <item>
+      <title>טראמפ הפציר במנכ"ל אנבידיה: "תיאבק" | הקשר הקרוב - ותפקיד ה"מושיע" שאימץ הואנג</title>
+      <link>https://www.ynet.co.il/news/article/sjwpq440me</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/sjwpq440me</guid>
+    </item>
+    <item>
+      <title>הקצין שנעצר בבריטניה "לא הספיק להעביר מידע לרוסיה" - ויעמוד לדין גם בארה"ב</title>
+      <link>https://www.ynet.co.il/news/article/syiiw8ncge</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/syiiw8ncge</guid>
     </item>
     <item>
       <title>הסכם עדיין אין, אבל טראמפ מייצר ציפיות כטקטיקת משא ומתן</title>
@@ -409,6 +404,11 @@
       <title>מהלומה אפשרית באיראן: טראמפ ונתניהו לא חושבים על אותו הדבר</title>
       <link>https://www.ynet.co.il/news/article/hka00rqxpfe</link>
       <guid isPermaLink="false">https://www.ynet.co.il/news/article/hka00rqxpfe</guid>
+    </item>
+    <item>
+      <title>המלחמה עם איראן לא נגמרה, היא כנראה נדחתה</title>
+      <link>https://www.ynet.co.il/news/article/sysjqixrzl</link>
+      <guid isPermaLink="false">https://www.ynet.co.il/news/article/sysjqixrzl</guid>
     </item>
   </channel>
 </rss>
